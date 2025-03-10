@@ -1,1 +1,12 @@
-
+airflow_dbt_duckdb_medallion:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      threads: 1
+      host: localhost
+      port: 5432
+      user: your_postgres_user
+      pass: your_postgres_password
+      dbname: your_postgres_database
+      schema: public
