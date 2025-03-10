@@ -1,5 +1,3 @@
-
-
 # Airflow-dbt-DuckDB-Medallion
 
 This project implements a cost-optimized data platform using Apache Airflow for orchestration, dbt for data transformations, and DuckDB for ad-hoc analysis, following a Medallion Architecture. It focuses on streamlining data ingestion, ensuring data quality, and enabling efficient analytics.
@@ -133,4 +131,4 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## License
 
-[MIT License]
+This project is open-source and available under the MIT License.
