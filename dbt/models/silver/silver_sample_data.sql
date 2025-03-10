@@ -2,6 +2,6 @@
 
 SELECT
     id,
-    {{ standardize_column_names('name') }} AS name,
+    name,
     value * 10 AS adjusted_value
 FROM {{ source('public', 'sample_data') }}
