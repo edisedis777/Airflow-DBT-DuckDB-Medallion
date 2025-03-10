@@ -1,0 +1,5 @@
+apache-airflow
+dbt-core
+duckdb
+great-expectations
+pandas
