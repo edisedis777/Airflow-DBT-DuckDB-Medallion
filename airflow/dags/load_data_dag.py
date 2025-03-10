@@ -10,7 +10,7 @@ def load_data():
     df.to_sql('sample_data', engine, if_exists='replace', index=False)
 
 with DAG(
-    dag_id='ingestion_dag',
+    dag_id='load_data_dag',
     start_date=days_ago(1),
     schedule_interval=None,
     catchup=False,
