@@ -1,4 +1,14 @@
 # Airflow-dbt-DuckDB-Medallion
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![dbt version](https://img.shields.io/badge/dbt_version-1.0.0-blue)
+![Made with DuckDB](https://img.shields.io/badge/Made%20with-DuckDB-1f425f.svg)
+
+
+
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 This project implements a cost-optimized data platform using Apache Airflow for orchestration, dbt for data transformations, and DuckDB for ad-hoc analysis, following a Medallion Architecture. It focuses on streamlining data ingestion, ensuring data quality, and enabling efficient analytics.
 
