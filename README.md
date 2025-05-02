@@ -141,7 +141,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## License
 
-This project is open-source and available under the MIT License.
+Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
 
 <div align="right">
 
